@@ -157,10 +157,10 @@ The output image `ipc_output.jpg` will be generated with bounding boxes around d
 ---
 
   ### Input Image
-  ![Input Image](images/person.jpg)
+  ![Input Image](/person.jpg)
 
   ### Output After YOLO Detection
-  ![Detected Persons](images/ipc_output.jpg)
+  ![Detected Persons](/ipc_output.jpg)
 
 ## 7. Adding Images to the Report
 
