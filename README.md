@@ -156,6 +156,12 @@ The output image `ipc_output.jpg` will be generated with bounding boxes around d
 
 ---
 
+  ### Input Image
+  ![Input Image](images/person.jpg)
+
+  ### Output After YOLO Detection
+  ![Detected Persons](images/ipc_output.jpg)
+
 ## 7. Adding Images to the Report
 
 For documentation or report purposes, the following images can be included:
